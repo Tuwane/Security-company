@@ -1,0 +1,41 @@
+body{
+background-color:darkgrey;
+
+
+}
+#h1{
+text-align:center;
+color:maroon;
+
+
+}
+#pp{
+text-align:center;
+boader:1px solid black;
+
+
+}
+.pp1{
+text-aligh:center;
+
+}
+#button-top{
+text-align:center;
+font-family:helvetica, sans-serif;
+font-weight:800;
+text-decoration:none;
+margin:auto;
+
+
+}
+#button-lower{
+text-align:center;
+font-family:helvetica, sans-serif;
+font-weight:800;
+text-decoration:none;
+}
+#h2{
+color:#ff6347;
+
+
+}
