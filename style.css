@@ -2,6 +2,11 @@ body{
 background-color:darkgrey;
 
 
+
+}
+img{
+float:right;
+
 }
 #h1{
 text-align:center;
@@ -25,6 +30,13 @@ font-family:helvetica, sans-serif;
 font-weight:800;
 text-decoration:none;
 margin:auto;
+background-color:#f5e7ce;
+width:30%;
+text-decoration:none;
+height:20px;
+padding-top:110px;
+padding:10px;
+padding-left:10px;
 
 
 }
@@ -32,10 +44,28 @@ margin:auto;
 text-align:center;
 font-family:helvetica, sans-serif;
 font-weight:800;
+margin:auto;
+width:40%;
 text-decoration:none;
+padding-top:10px;
+background-color:#f5e7ce;
+padding-bottom:10px;
+
+}
+#button-top a:hover{
+background-color: #a19423;
+
+}
+#button-lower a:hover{
+background-color: #a19423;
+
 }
 #h2{
 color:#ff6347;
 
 
+}
+#lin{
+background-color:rgb(225, 225, 225,08);
+width:40%;
 }
