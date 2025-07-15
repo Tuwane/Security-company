@@ -69,9 +69,8 @@ color:#ff6347;
 background-color:rgb(225, 225, 225,08);
 width:40%;
 }
-#goi{
-    border:3px solid black;
-    background-color: rgba(70, 50, 41, 0.966);
+#goi img{
+    width:100%;
 }
 p{
 font-size:35px;
